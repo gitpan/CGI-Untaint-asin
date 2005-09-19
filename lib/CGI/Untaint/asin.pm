@@ -1,6 +1,6 @@
 package CGI::Untaint::asin;
 
-$VERSION = '1.00';
+$VERSION = '1.01';
 
 use strict;
 use base 'CGI::Untaint::object';
@@ -39,7 +39,7 @@ Tony Bowden
 =head1 BUGS and QUERIES
 
 Please direct all correspondence regarding this module to:
-  bug-Business-Barcode-EAN13@rt.cpan.org
+  bug-CGI-Untaint-asin@rt.cpan.org
 
 =head1 COPYRIGHT
 

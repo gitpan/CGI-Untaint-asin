@@ -20,7 +20,7 @@ AUTHOR
 
 BUGS and QUERIES
     Please direct all correspondence regarding this module to:
-    bug-Business-Barcode-EAN13@rt.cpan.org
+    bug-CGI-Untaint-asin@rt.cpan.org
 
 COPYRIGHT
       Copyright (C) 2004-2005 Tony Bowden.
