@@ -1,12 +1,12 @@
 package CGI::Untaint::asin;
 
-$VERSION = '1.01';
+$VERSION = '1.02';
 
 use strict;
 use base 'CGI::Untaint::object';
 
 sub _untaint_re { 
-  qr/^([\d\w]\d{4}[\d\w]{5})$/i;
+  qr/^([\d\w]\d{3}[\d\w]{6})$/i;
 }
 
 1;
